@@ -8,4 +8,4 @@ You can play the game at: https://github.com/LFFerrazzi/github-games
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-Branching is good !  Do it often :;-):
+Branching is good !  Do it often :smiley:
